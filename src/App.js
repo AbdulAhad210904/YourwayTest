@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>React App</h1>
-      <p>Ahad's first React App</p>
+      <p> YourWay's first React App</p>
     </div>
   );
 }
